@@ -1,0 +1,17 @@
+Bài tập: hiển thị từ trùng lặp trong file
+
+Mục tiêu: luyện tập đọc file
+
+Đề bài: Viết chương trình đọc nội dung từ file text và hiển thị các từ trùng lặp trong file đó.
+
+Hướng dẫn:
+
+B1: tạo file và cho sẵn dữ liệu(có thêt coppy đề bài cho vào file)
+
+B2: viết hàm đọc file.
+
+B3: convert file đọc được thành mảng string với mỗi từ là 1 phần tử
+
+B4: sử dụng vòng lặp để tìm kiếm các phần tử xuất hiện nhiều hơn 1 lần và add những phần tử đó vào 1 list
+
+B5: hiển thị kết quả.

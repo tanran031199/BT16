@@ -1,0 +1,3 @@
+Bài tập đếm số dòng trong file
+Mục tiêu: luyện tâp đọc file.
+Đề bài: Viết chương trình đọc nội dung từ file text và đếm số dòng trong file đó.

@@ -1,0 +1,7 @@
+Bài tập: sắp xếp các từ theo bảng chữ cái
+
+Mục tiêu: luyện tập đọc file
+
+Đề bài: Viết chương trình đọc nội dung từ file text và sắp xếp các từ trong file theo thứ tự bảng chữ cái.
+
+Hướng dẫn: có thể sử dụng Collection.sort() hoặc Arrays.sort()
